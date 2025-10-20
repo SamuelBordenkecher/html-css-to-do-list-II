@@ -1,0 +1,11 @@
+.header {
+    color: red;
+}
+
+.firstList {
+    color: purple;
+    display: flex;
+}
+body {
+    background-color: antiquewhite;
+}
